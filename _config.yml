@@ -1,6 +1,7 @@
 title: Pix2Pix Colorization
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
+dark_theme_toggle        : true
 
 url: https://just-the-docs.github.io
 
