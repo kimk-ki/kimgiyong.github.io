@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+layout: 논문구현
 ---
 
 <script src="https://gist.github.com/kimk-ki/8b8b3a77b04e7a85b42c02fd4dd8c2cd.js"></script>
